@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hey there 👋
 
-<!--
-**schmartinn/schmartinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm Martin – an 18-year-old student from Austria 🇦🇹**  
+Currently studying software engineering at a higher technical institute (HTL).  
 
-Here are some ideas to get you started:
+- 💻 I like building fast and clean web applications  
+- ⚙️ I enjoy working on both the frontend and backend  
+- 🔐 Currently exploring some basics of cyber security  
+- 🧠 I like figuring out how things work – and occasionally breaking them  
+- 🔌 Also interested in basic electronics and embedded systems  
+- 🎨 Into 3D design, video editing, and random CLI experiments
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 Technologies I Use & Like
+
+#### Languages
+
+![Languages](https://skillicons.dev/icons?i=html,css,js,ts,py,java,mysql,bash)
+
+#### Frameworks & Libraries
+
+![Frameworks](https://skillicons.dev/icons?i=react,nextjs,express,tailwind,bootstrap,prisma)
+
+#### Tools & Platforms
+
+![Tools](https://skillicons.dev/icons?i=vscode,git,github,gitlab,vercel,docker,figma,postman)
+
+#### Operating Systems & Environments
+
+![OS](https://skillicons.dev/icons?i=windows,linux,arch,debian,kali)
+
+#### Databases
+
+![DBs](https://skillicons.dev/icons?i=mysql,postgres,supabase)
+
+---
+
+### ⚡ Stuff I’ve Also Played With
+
+- **Arduino** – for school stuff  
+- **LaTeX** – for documentation  
+- **Blender** – 3D stuff for fun  
+- **Bun** – fast JS runtime  
+- **PyQt** – tiny GUI apps  
+- **Regex** – sometimes useful, mostly pain  
+- **Adobe Tools** – video/image editing when needed
+
+---
+
+> *"It’s not a bug, it’s a feature!"*
