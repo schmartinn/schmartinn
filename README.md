@@ -5,7 +5,7 @@ Currently studying software engineering at a higher technical institute (HTL).
 
 - 💻 I like building fast and clean web applications  
 - ⚙️ I enjoy working on both the frontend and backend  
-- 🔐 Currently exploring some basics of cyber security  
+- 🔐 Currently very interested in the basics and fundamentals of cyber security
 - 🧠 I like figuring out how things work – and occasionally breaking them  
 - 🔌 Also interested in basic electronics and embedded systems  
 - 🎨 Into 3D design, video editing, and random CLI experiments
@@ -45,6 +45,12 @@ Currently studying software engineering at a higher technical institute (HTL).
 - **PyQt** – tiny GUI apps  
 - **Regex** – sometimes useful, mostly pain  
 - **Adobe Tools** – video/image editing when needed
+
+---
+
+### 📖 Currently Reading
+
+* *Clean Code* by **Robert C. Martin**
 
 ---
 
