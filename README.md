@@ -4,7 +4,7 @@
 Currently studying software engineering at a higher technical institute (HTL).  
 
 - 💻 I like building stuff
-- ⚙️ I enjoy working on the frontend although i prefer backend
+- ⚙️ I enjoy working on the frontend although I prefer backend
 - 🔐 Currently very interested in the basics and fundamentals of cyber security
 - 🧠 I like learning new things on my own
 - 🔌 Also interested in basic electronics and embedded systems  
