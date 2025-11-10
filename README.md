@@ -1,14 +1,16 @@
 # Hey there 👋
 
-**I'm Martin – an 18-year-old student from Austria 🇦🇹**  
+**I'm Martin – a 19-year-old student from Austria 🇦🇹**  
 Currently studying software engineering at a higher technical institute (HTL).  
 
-- 💻 I like building fast and clean web applications  
-- ⚙️ I enjoy working on both the frontend and backend  
+- 💻 I like building stuff
+- ⚙️ I enjoy working on the frontend although i prefer backend
 - 🔐 Currently very interested in the basics and fundamentals of cyber security
-- 🧠 I like figuring out how things work – and occasionally breaking them  
+- 🧠 I like learning new things on my own
 - 🔌 Also interested in basic electronics and embedded systems  
-- 🎨 Into 3D design, video editing, and random CLI experiments
+- 🎨 Into 3D design, video editing and other stuff
+
+Always curious. Always learning.
 
 ---
 
@@ -50,7 +52,8 @@ Currently studying software engineering at a higher technical institute (HTL).
 
 ### 📖 Currently Reading
 
-* *Clean Code* by **Robert C. Martin**
+<!-- ![Status: Reading](https://img.shields.io/badge/status-reading-blue) -->
+* *Design Patterns: Elements of Reusable Object-Oriented Software* by **The Gang of Four**
 
 ---
 
